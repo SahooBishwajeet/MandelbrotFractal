@@ -42,7 +42,11 @@ Certainly, here's an expanded section on customization for your README:
 ## Usage
 
 To run this program, you need to have SDL2 installed on your system.
-[Guide to install SDL2](#sdl2-installation). You can compile the code using a C++ compiler with the SDL2 library linked. Here's a basic compilation command using g++:
+[Guide to install SDL2](#sdl2-installation). 
+
+Download the Project file from [here](mandelbrotFractal.cpp)
+
+You can compile the code using a C++ compiler with the SDL2 library linked. Here's a basic compilation command using g++:
 
 ```bash
 g++ -o mandelbrotFractal mandelbrotFractal.cpp -lSDL2
